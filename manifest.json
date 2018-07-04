@@ -1,0 +1,34 @@
+{
+  "name": "Restaurant Reviews",
+  "short_name": "R R",
+  "icons": [{
+    "src": "/imgRes/icons/favicon-512_x_512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },
+  {
+    "src": "/imgRes/icons/favicon-256_x_256.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  },
+  {
+    "src": "/imgRes/icons/favicon-128_x_128.png",
+    "sizes": "128x128",
+    "type": "image/png"
+  },
+  {
+    "src": "/imgRes/icons/favicon-64_x_64.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  },
+  {
+    "src": "/imgRes/icons/favicon-32_x_32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }],
+  "display": "standalone",
+  "scope": "/",
+  "background_color":"#2196F3",
+  "theme_color": "#2196F3",
+  "start_url": "/index.html"
+}
